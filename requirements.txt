@@ -1,2 +1,3 @@
-# quotex-signal-fouad
-TradingView Alerts to Telegram
+requests
+flask
+python-telegram-bot
